@@ -1,6 +1,8 @@
 # Encoder
 Base64,MD4,SHA256,Blake2b,SHA1,SHA224 Encoder
 
+![Encoder Picture](https://user-images.githubusercontent.com/92352774/136945399-0395f14f-362c-4f48-b703-07cf523f2aa2.png)
+
 # Install
 ## Linux
   - sudo apt install python3-pip
